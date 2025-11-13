@@ -10,8 +10,8 @@ html, body {
 /* Area overlay ukuran tetap 1920x1080 */
 .overlay-container {
   position: relative;
-  width: 1920px;
-  height: 1080px;
+  width: 1280px;
+  height: 720px;
   background: transparent;
   overflow: hidden;
   margin: 0 auto;
@@ -19,8 +19,8 @@ html, body {
 
 /* Gambar overlay */
 .overlay-container img {
-  width: 1920px;
-  height: 1080px;
+  width: 1280px;
+  height: 720px;
   object-fit: contain;
   display: block;
   user-select: none;
